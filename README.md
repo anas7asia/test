@@ -16,7 +16,7 @@ We’re convinced that ‘less is more’ so try to write your code as simple as
 
 We wish you good luck!
 
-![alt text](https://raw.githubusercontent.com/nikokosh/ymp-render-list/master/task_preview.png "Preview")
+![alt text](task_preview.png "Preview")
 
 1. Init git project and work on ‘master’ branch.
 2. Fetch a list of 10 pets from Yummypets API with AJAX or Fetch API. Use the following request: https://api.yummypets.com/pets and the parameter called “limit” to determine the number of pets (10).
